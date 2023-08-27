@@ -1,0 +1,26 @@
+.heading{
+    font-size: 23px;
+    width: 98%;
+    margin:2px;
+    box-shadow: 10px 10px 10px silver;
+    background-color:beige;
+}
+.note{
+    font-size: 15px;
+    color: cornflowerblue;
+    font-family: 'Dancing Script', cursive;
+
+}
+.copy_right_footer{
+    position: fixed;
+    color: silver;
+    bottom: 0;
+    width: 50%;
+    background-color: white;
+    line-height: 5;
+    text-align: center;
+    box-shadow: 5px 10px 100px silver;
+    margin-left: 40px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
